@@ -1,0 +1,24 @@
+{
+  "name": "random-eth-address-generator-js",
+  "version": "1.0.0",
+  "description": "generate random eth address by npm and save your private address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ClarenceDan",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarenceDan/random-eth-address-generator-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ClarenceDan/random-eth-address-generator-js/issues"
+  },
+  "homepage": "https://github.com/ClarenceDan/random-eth-address-generator-js#readme"
+}
